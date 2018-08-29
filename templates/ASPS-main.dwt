@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+
+<head>
+<meta charset="utf-8">
+<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Area Sampling and Production System</title>
+<!-- TemplateEndEditable -->
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<!-- Meta data -->
+<meta name="description" content="">
+<meta name="dcterms.title" content="">
+<meta name="dcterms.creator" content="">
+<meta name="dcterms.issued" title="W3CDTF" content="Date published (YYYY-MM-DD) / Date de publication (AAAA-MM-JJ)">
+<meta name="dcterms.modified" title="W3CDTF" content="Date modified (YYYY-MM-DD) / Date de modification (AAAA-MM-JJ)">
+<meta name="dcterms.subject" title="scheme" content="">
+<meta name="dcterms.language" title="ISO639-2" content="eng">
+<!-- Meta data-->
+<!--[if gte IE 9 | !IE ]><!-->
+<link href="../assets/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" href="../css/theme.min.css">
+<link rel="stylesheet" href="../css/utils.css">
+<link rel="stylesheet" href="../css/font-awesome.min.css">
+<link rel="stylesheet" href="../css/cisr-cisr.css"/>
+<link rel="stylesheet" href="../css/asps.css" />
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<link href="../assets/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" href="../css/ie8-theme.min.css" />
+<script src="../js/jquery/1.11.1/jquery.min.js"></script>
+<script src="../js/ie8-wet-boew.min.js"></script>
+<![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="MenuBreadcrumbs" type="boolean" value="true" -->
+<noscript>
+<link rel="stylesheet" href="../css/noscript.min.css" />
+</noscript>
+</head><body vocab="http://schema.org/" typeof="WebPage">
+<ul id="wb-tphp">
+    <li class="wb-slc"> <a class="wb-sl" href="#wb-cont">Skip to main content</a> </li>
+    <li class="wb-slc visible-sm visible-md visible-lg"> <a class="wb-sl" href="#wb-info">Skip to "About this site"</a> </li>
+</ul>
+<header role="banner">
+    <div id="wb-bnr">
+        <div id="wb-bar">
+            <div class="container">
+                <div class="row">
+                    <object id="gcwu-sig" type="image/svg+xml" tabindex="-1" role="img" data="../assets/sig-blk-en.svg" aria-label="Government of Canada">
+                    </object>
+                    <!-- TemplateBeginEditable name="language" -->
+                    <section id="wb-lng">
+                        <h2>Language selection</h2>
+                        <ul class="list-inline">
+                            <li><a lang="fr" href="index-fr.html">Français</a></li>
+                        </ul>
+                    </section>
+                    <!-- TemplateEndEditable -->
+                    <section class="wb-mb-links col-xs-12 visible-sm visible-xs" id="wb-glb-mn">
+                        <h2>Search and menus</h2>
+                        <ul class="pnl-btn list-inline text-right">
+                            <li><a href="#mb-pnl" title="Search and menus" aria-controls="mb-pnl" class="overlay-lnk btn btn-sm btn-default" role="button"><span class="glyphicon glyphicon-search"><span class="glyphicon glyphicon-th-list"><span class="wb-inv">Search and menus</span></span></span></a></li>
+                        </ul>
+                        <div id="mb-pnl"></div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div id="wb-sttl" class="col-md-12"> <a href="../roles/all/dashboard/dashboard.html"><span>Area Sampling and Production System</span></a>
+                    <object id="wmms" type="image/svg+xml" tabindex="-1" role="img" data="../assets/wmms-intra.svg" aria-label="Symbol of the Government of Canada">
+                    </object>
+                </div>
+                <!--<section id="wb-srch" class="visible-md visible-lg">
+          <h2>Search</h2>
+          <form action="https://google.ca/search" method="get" role="search" class="form-inline">
+            <label for="wb-srch-q">Search website</label>
+            <input id="wb-srch-q" placeholder="What are you looking for?" class="form-control" name="q" type="search" value="" size="27" maxlength="150">
+            <input type="hidden" name="q" value="site:wet-boew.github.io OR site:github.com/wet-boew/">
+            <button type="submit" id="wb-srch-sub" class="btn btn-default">Search</button>
+          </form>
+        </section>--> 
+            </div>
+        </div>
+    </div>
+    <!-- TemplateBeginIf cond="MenuBreadcrumbs" -->
+    
+    <nav role="navigation" id="wb-sm" data-trgt="mb-pnl" class="wb-menu visible-md visible-lg" typeof="SiteNavigationElement">
+        <div class="container nvbar">
+            <h2>Topics menu</h2>
+            <div class="row">
+                <ul class="list-inline menu" role="menubar">
+                    <li><a href="../roles/asps/home.html" class="item">Home</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <nav role="navigation" id="wb-bc" property="breadcrumb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 pddng-0">
+                    <h2>You are here:</h2>
+                    <ol class="breadcrumb">
+                        <!-- TemplateBeginEditable name="Breadcrumb" -->
+                        <li><a href="../roles/asps/home.html">Home</a></li>
+						<!-- TemplateEndEditable -->
+                    </ol>
+                </div>
+                <div class="col-md-4 pddng-0 text-right text-left-sm text-left-xs text-left-xxs">
+                    <h2>User:</h2>
+                    <ol class="breadcrumb">
+                        <li> <i class="fa fa-user mrgn-rght-sm"></i>Samantha Methot</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- TemplateEndIf -->
+</header>
+<main role="main" property="mainContentOfPage" class="container"> <!-- TemplateBeginEditable name="Content" --> <!-- TemplateEndEditable -->
+    <dl id="wb-dtmd">
+        <dt>Last modified: 2018-02-19</dt>
+        <dd></dd>
+    </dl>
+</main>
+<footer role="contentinfo" id="wb-info" class="visible-sm visible-md visible-lg wb-navcurr">
+    <div class="container">
+        <nav role="navigation">
+            <ul id="gc-tctr" class="list-inline">
+                <li><a rel="license" href="../roles/all/termsConditions/termsConditions_en.html">Terms and conditions</a></li>
+                <li><a href="../roles/all/transparency/transparency_en.html">Transparency</a></li>
+                <li><a href="../roles/all/contactUs/contactUs_en.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>
+
+<!--[if gte IE 9 | !IE ]><!--> 
+<script src="../js/jquery/2.1.4/jquery.js"></script> 
+<script src="../js/wet-boew.min.js"></script> 
+<!--<![endif]--> 
+<!--[if lt IE 9]>
+<script src="../js/ie8-wet-boew2.min.js"></script>
+<![endif]--> 
+<script src="../js/theme.min.js"></script> 
+<!-- TemplateBeginEditable name="JavaScript" --> <!-- TemplateEndEditable -->
+</body>
+</html>
